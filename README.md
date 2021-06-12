@@ -56,6 +56,7 @@ Para poder usar el presente proyecto, tomar en consideración lo siguiente:
 El nombre de la base de datos que usted debe crear es: **mobiliaria**
 
 La base de datos tiene las siguiente entidades:
+
 ![](https://raw.githubusercontent.com/taw-desarrollo-plataformas-web/ejemplo-php-002/main/imgs/diagrama.png) 
 
 3. Agregar la carpeta **ejemplo-php-002** ([https://github.com/taw-desarrollo-plataformas-web/ejemplo-php-002/tree/main/ejemplo-php-002](https://github.com/taw-desarrollo-plataformas-web/ejemplo-php-002/tree/main/ejemplo-php-002) https://github.com/taw-desarrollo-plataformas-web/ejemplo-php-002/tree/main/ejemplo-php-002) ; en su servidor web en su máquina local. Usted puede usar Xampp, Apache, Nginx.
@@ -76,9 +77,11 @@ La base de datos tiene las siguiente entidades:
 ## Usos
 
 1. Ingresar a través de un navegador al archivo **index.php** que consta en la carpeta **ejemplo-php-002** 
+
 ![](https://raw.githubusercontent.com/taw-desarrollo-plataformas-web/ejemplo-php-002/main/imgs/img_index.png) 
 
 2. Ingresar a través de un navegador al archivo **nueva_casa.php** que consta en la carpeta **ejemplo-php-002** ; para crear una nueva casa.
+
 ![](https://raw.githubusercontent.com/taw-desarrollo-plataformas-web/ejemplo-php-002/main/imgs/img-add-casas.png) 
 
 3. Ingresar a través de un navegador al archivo **nueva_constructora.php** que consta en la carpeta **ejemplo-php-002** ; para crear una nueva constructora.
