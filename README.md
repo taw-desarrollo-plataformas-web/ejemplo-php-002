@@ -30,9 +30,6 @@ Es un repositorio académico que permite ejemplificar el proceso de ingreso y li
      </li>
     <li>
       <a href="#Inicio-del-proyecto">Inicio del proyecto</a>
-      <ul>
-        <li><a href="#prerrequisitos">Prerrequisitos</a></li>
-       </ul>
     </li>
     <li><a href="#usos">Usos</a></li>
     <li><a href="#licencia">Licencia</a></li>
@@ -79,10 +76,13 @@ La base de datos tiene las siguiente entidades:
 ## Usos
 
 1. Ingresar a través de un navegador al archivo **index.php** que consta en la carpeta **ejemplo-php-002** 
+![](https://raw.githubusercontent.com/taw-desarrollo-plataformas-web/ejemplo-php-002/main/imgs/img_index.png) 
 
 2. Ingresar a través de un navegador al archivo **nueva_casa.php** que consta en la carpeta **ejemplo-php-002** ; para crear una nueva casa.
+![](https://raw.githubusercontent.com/taw-desarrollo-plataformas-web/ejemplo-php-002/main/imgs/img-add-casas.png) 
 
 3. Ingresar a través de un navegador al archivo **nueva_constructora.php** que consta en la carpeta **ejemplo-php-002** ; para crear una nueva constructora.
+![](https://raw.githubusercontent.com/taw-desarrollo-plataformas-web/ejemplo-php-002/main/imgs/img-add-constructora.png) 
 
 <!-- LICENSE -->
 ## Licencia
