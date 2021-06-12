@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/taw-desarrollo-plataformas-web/ejemplo-php-002">
-    <img src="https://www.php.net/images/logos/php-logo.svg" alt="Logo">
+    <img src="https://raw.githubusercontent.com/taw-desarrollo-plataformas-web/ejemplo-php-002/main/imgs/portada.png" alt="Logo">
   </a>
 
   <h3 align="center">Ejemplo de uso de PHP y MySQL</h3>
